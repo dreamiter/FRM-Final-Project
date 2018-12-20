@@ -1,4 +1,4 @@
-![pic](master/Image1.png)
+![pic](Image1.png)
 
 # FRM-Final-Project
 
